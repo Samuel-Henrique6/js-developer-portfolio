@@ -1,10 +1,10 @@
 {
-  "name": "Renan J Paula",
-  "photo": "https://avatars.githubusercontent.com/u/3266640?v=4",
-  "job": "Tech Lead no S3 Bank",
-  "location": "São Paulo - SP",
-  "phone": "(16) 98159-7656",
-  "email": "renanjohannsen@gmail.com",
+  "name": "Samuel Henrique",
+  "photo": "https://avatars.githubusercontent.com/u/106714968?v=4",
+  "job": "Estágio MTI",
+  "location": "Cuiabá - MT",
+  "phone": "(65) 99318-6739",
+  "email": "samuellimaarruda@gmail.com",
   "skills": {
     "hardSkills": [
       {
@@ -49,7 +49,7 @@
   "portfolio": [
     {
       "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "url": "https://github.com/Samuel-Henrique6/js-developer-pokedex",
       "github": true
     },
     {
